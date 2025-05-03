@@ -29,22 +29,22 @@ Copy
 Edit
 portfolio-future/
 ├── public/
-│   └── index.html         # Main HTML file
+│   └── index.html       
 ├── src/
-│   ├── components/        # Reusable components (e.g., Navbar, Footer, ProjectCard)
+│   ├── components/        
 │   │   ├── Navbar.js
 │   │   ├── Footer.js
 │   │   └── ProjectCard.js
 │   │
-│   ├── pages/             # Page components (e.g., Home, About, Contact)
+│   ├── pages/            
 │   │   ├── Home.js
 │   │   ├── About.js
 │   │   └── Contact.js
 │   │
-│   ├── App.js             # Main App component
-│   └── index.js           # Entry point for React
-├── .gitignore             # Ignore node_modules, build, etc.
-├── package.json           # Dependencies and project info
-├── README.md              # Project documentation
-├── .env                   # Configuration file (e.g., for API keys or environment variables)
-└── node_modules/          # Project dependencies
+│   ├── App.js            
+│   └── index.js          
+├── .gitignore            
+├── package.json           
+├── README.md             
+├── .env                  
+└── node_modules/        
